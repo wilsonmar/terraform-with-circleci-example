@@ -4,8 +4,7 @@
 
 We all know how complex apps this days can get, so that is why I created this.
 
-It is just minor contribution to help you achieve "The Basic 2018 Web App Architecture", which looks something like the image below.
-
+It is just minor contribution to help you achieve "The Basic 2020 Web App Architecture", which looks something like this diagram:
 <p align="center"><img src="https://raw.githubusercontent.com/fedekau/terraform-with-circleci-example/staging/.images/web-app.jpg" height="300px"></p>
 
 This is an example repository that you can use to kickstart your project or to
